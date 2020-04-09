@@ -11,5 +11,6 @@ Cette exercice a pour objectif de mettre en pratiques mes connaissances sur les 
 #Création d'un proxy comme point d'entrée de l'application à travers une API gateway (zuul)
 
 Base de données h2
+
 Serveur Apache Tomcat
 
